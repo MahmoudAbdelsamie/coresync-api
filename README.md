@@ -13,7 +13,7 @@ Welcome to CoreSync API – Your Lightweight Node.js Solution for Seamless Produ
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/coresync-api.git
+   git clone https://github.com/MahmoudAbdelsamie/coresync-api.git
    cd coresync-api
 
 2. **Install Dependencies:**
